@@ -1,1 +1,2 @@
 # casino-number-game
+Welcome to the Casino Number Guessing Game! This C++ project is a fun console-based betting game. Players can guess a randomly generated number within a range, and if they get it right, they win! Otherwise, the betting amount is deducted from their balance. The game continues until the player runs out of money. Enjoy testing your luck and trying to build your balance as high as possible! 😄
